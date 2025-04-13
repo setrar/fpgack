@@ -12,11 +12,21 @@ The various programming assignments will help students solidify their understand
 
 ### Assessments
 
-#### Leraning Outcomes
+#### Learning Outcomes
 
 - [ ] Realtime signal processing
-  - [ ] Ability to implement 
-- [ ] 
+  - [ ] Ability to implement any time-domain DSP with Faust
+  - [ ] Intuitive understanding of these algorithms
+- [ ] Faust Programming
+  - [ ] Mastery of the Faust programming language and its libraries
+  - [ ] Ability to generate DSP code for various languages such as C, C++, JavaScript, LLVM bitcode, WebAssembly, etc.
+- [ ] Faust Architecture
+  - [ ] Mastery of the Faust's architecture system in building audio DSP engines, plug-ins, mobile/web apps, and standalones
+  - [ ] Ability to integrate DSP engines to other software environments.
+
+#### Grading Policy 
+- [ ] Exercices 80%
+- [ ] Quizz 20%
 
 # References
 
