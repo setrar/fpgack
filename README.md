@@ -29,7 +29,10 @@ The various programming assignments will help students solidify their understand
 - [ ] Quizz 20%
 
 ### Course Instructors
-
+- [ ] Romain Michon
+- [ ] Yann Orlarey
+- [ ] Chris Chafe
+- [ ] Julius Smith
 
 
 # References
