@@ -28,6 +28,10 @@ The various programming assignments will help students solidify their understand
 - [ ] Exercices 80%
 - [ ] Quizz 20%
 
+### Course Instructors
+
+
+
 # References
 
 
