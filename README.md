@@ -1,4 +1,4 @@
-# Real-time Audio Signal Processing in Faust
+# [Real-time Audio Signal Processing in Faust](https://www.kadenze.com/courses/real-time-audio-signal-processing-in-faust)
 
 ## Syllabus
 
