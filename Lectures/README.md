@@ -1,9 +1,9 @@
 # Sessions
 
-| :hash: | Title | Description | Media | Summary |
+| :hash: | Title | Related Coursework | Media | Summary |
 |-|-|-|-|-|
-| 1 | Faust Overview and Language Basics | Related Coursework: Intro Survey (Stanford) , Breath-Controlled Polyphonic Synthesizer , Polyphonic Synthesizer | Media: 10 Video Files: 00:29:40 | This session gives an overview of the Faust ecosystem and of its various features. Simple high-level programming examples are provided towards making audio plug-ins, mobile and web apps, and externals for PureData and Max/MSP. It also begins a detailed survey of the Faust language that will be continued in Session 2. |
-| 2 | Programming with Faust | Related Coursework: Triangular Waveform Generation , Working with Delays , Quiz: Expressions, Semantics, and Notation , Create a User Interface | Media: 9 Video Files: 01:29:40 | This lecture extends the review of the Faust language. Its goal is to present a detailed description of Faust’s semantics through a series of examples. In particular students will learn how to code any visual block diagram in Faust, and express the corresponding mathematical semantics. By the end of this lecture, students should be aware of all the syntactical ... |
+| 1 | Faust Overview and Language Basics | Intro Survey (Stanford) , Breath-Controlled Polyphonic Synthesizer , Polyphonic Synthesizer | 10 Video Files: 00:29:40 | This session gives an overview of the Faust ecosystem and of its various features. Simple high-level programming examples are provided towards making audio plug-ins, mobile and web apps, and externals for PureData and Max/MSP. It also begins a detailed survey of the Faust language that will be continued in Session 2. |
+| 2 | Programming with Faust | Triangular Waveform Generation , Working with Delays , Quiz: Expressions, Semantics, and Notation , Create a User Interface | 9 Video Files: 01:29:40 | This lecture extends the review of the Faust language. Its goal is to present a detailed description of Faust’s semantics through a series of examples. In particular students will learn how to code any visual block diagram in Faust, and express the corresponding mathematical semantics. By the end of this lecture, students should be aware of all the syntactical ... |
 
 Session 3: Sound Synthesis and Processing I: Oscillators, AM, FM, and Subtractive Synthesis
 Related Coursework: Fun With Subtractive Synthesis: Using Multiple Filters , Towards the DX7 , Fun With Subtractive Synthesis: Trying Other Types of Filters
