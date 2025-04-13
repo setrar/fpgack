@@ -1,11 +1,9 @@
 
 
-| :hash: | Title | Description | Media |
+| :hash: | Title | Description | Media | Summary |
 |-|-|-|-|
-| Session 1: | Faust Overview and Language Basics | Related Coursework: Intro Survey (Stanford) , Breath-Controlled Polyphonic Synthesizer , Polyphonic Synthesizer | Media: 10 Video Files: 00:29:40 |
+| Session 1: | Faust Overview and Language Basics | Related Coursework: Intro Survey (Stanford) , Breath-Controlled Polyphonic Synthesizer , Polyphonic Synthesizer | Media: 10 Video Files: 00:29:40 | This session gives an overview of the Faust ecosystem and of its various features. Simple high-level programming examples are provided towards making audio plug-ins, mobile and web apps, and externals for PureData and Max/MSP. It also begins a detailed survey of the Faust language that will be continued in Session 2. |
 
-This session gives an overview of the Faust ecosystem and of its various features. Simple high-level programming examples are provided towards making audio plug-ins, mobile and web apps, and externals for PureData and Max/MSP. It also begins a detailed survey of the Faust language that will be continued in Session 2.
-Go to Session
 
 Session 2: Programming with Faust
 Related Coursework: Triangular Waveform Generation , Working with Delays , Quiz: Expressions, Semantics, and Notation , Create a User Interface
